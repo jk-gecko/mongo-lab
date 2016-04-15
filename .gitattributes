@@ -1,2 +1,2 @@
 vendor/open_server_5_2_4_basic.exe filter=lfs diff=lfs merge=lfs -text
-vendor/mongodb-win32-i386-3.2.3.zip filter=lfs diff=lfs merge=lfs -text
+ vendor/mongodb-win32-i386-3.2.3.zip filter=lfs diff=lfs merge=lfs -text
